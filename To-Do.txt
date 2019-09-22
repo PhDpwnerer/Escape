@@ -1,0 +1,4 @@
+margins of the maze
+half a width longer on each side (the walls)
+collision
+screen scrolling?
